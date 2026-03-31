@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Erased",
+  "base_artist": "Unnämed",
+  "createdAt": "2026-03-31T02:50:52.586473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go To Sleep. (Little Man Being Erased.)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_Go_To_Sleep._(Little_Man_Being_Erased.)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Erased",
+      "artist": "Lil Boom feat. Ugly God",
+      "has_synced": true,
+      "path": "select/02_Erased_Lil_Boom_feat._Ugly_God.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Erased",
+      "artist": "Lil Boom & Ugly God",
+      "has_synced": true,
+      "path": "select/03_Erased_Lil_Boom_&_Ugly_God.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Citizen Erased",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/04_Citizen_Erased_Muse.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Erased, Over, Out",
+      "artist": "Nine Inch Nails",
+      "has_synced": false,
+      "path": "select/05_Erased,_Over,_Out_Nine_Inch_Nails.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Erased",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/06_Erased_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Erased",
+      "artist": "Hate",
+      "has_synced": true,
+      "path": "select/07_Erased_Hate.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Erased",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/08_Erased_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Erased",
+      "artist": "Paradise Lost",
+      "has_synced": true,
+      "path": "select/09_Erased_Paradise_Lost.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Erased (Live)",
+      "artist": "Laaz Rockit",
+      "has_synced": false,
+      "path": "select/10_Erased_(Live)_Laaz_Rockit.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Erased",
+      "artist": "Annie Lennox",
+      "has_synced": true,
+      "path": "select/11_Erased_Annie_Lennox.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Citizen Erased",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/12_Citizen_Erased_Muse.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Erased",
+      "artist": "Neko Hacker feat. YuNi",
+      "has_synced": false,
+      "path": "select/13_Erased_Neko_Hacker_feat._YuNi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Erased (feat. YuNi)",
+      "artist": "Neko Hacker",
+      "has_synced": false,
+      "path": "select/14_Erased_(feat._YuNi)_Neko_Hacker.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Citizen Erased (XX Anniversary RemiXX)",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/15_Citizen_Erased_(XX_Anniversary_RemiXX)_Muse.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Citizen Erased (Live from Le Zenith)",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/16_Citizen_Erased_(Live_from_Le_Zenith)_Muse.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Citizen Erased - Live from Le Zenith",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/17_Citizen_Erased_-_Live_from_Le_Zenith_Muse.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Empires Erased",
+      "artist": "Born of Osiris",
+      "has_synced": true,
+      "path": "select/18_Empires_Erased_Born_of_Osiris.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Erased",
+      "artist": "TRUSTcompany",
+      "has_synced": false,
+      "path": "select/19_Erased_TRUSTcompany.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Erased",
+      "artist": "Unnämed",
+      "has_synced": false,
+      "path": "select/pl_01_Erased_Unnämed.txt"
+    }
+  ]
+}
